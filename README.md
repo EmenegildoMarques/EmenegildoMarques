@@ -1,16 +1,24 @@
-### Hi there 👋
+Hi 👋 My name is Guilhermo
+==========================
 
-<!--
-**EmenegildoMarques/EmenegildoMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Back-End Developer
+-----------------------------
 
-Here are some ideas to get you started:
+I'm a 20 years old developer since I was 19. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also a student at Instituto Politécnico Dom Damião Franklin, a technical school of computer science..
+
+* 🌍  I'm based in Rio de Janeiro, Brazil
+* ✉️  You can contact me at [gildoperrygp@gmail.com](gildo:gildoperrygp@gmail.com)
+* 🧠  I'm learning Node Js, Php programming languages
+* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
+* ⚡  I love sports and my favorite is judo
+
+<a href="https://github.com/EmenegildoMarques" target="_blank" rel="noreferrer"></a>
+
+
+
+### Socials
+
+<p align="left"> <a href="https://github.com/EmenegildoMarques" target="_blank" rel="noreferrer"></a></p>
+
