@@ -1,4 +1,4 @@
-Hi 👋 My name is Guilhermo
+Hi 👋 My name is Emenegildo
 ==========================
 
 Back-End Developer
@@ -8,7 +8,7 @@ I'm a 20 years old developer since I was 19. I love to code and figure it out ho
 
 I am also a student at Instituto Politécnico Dom Damião Franklin, a technical school of computer science..
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
+* 🌍  I'm based Luanda, Angola
 * ✉️  You can contact me at [gildoperrygp@gmail.com](gildo:gildoperrygp@gmail.com)
 * 🧠  I'm learning Node Js, Php programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
