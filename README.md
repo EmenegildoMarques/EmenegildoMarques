@@ -10,7 +10,7 @@ I am also a student at Instituto Politécnico Dom Damião Franklin, a technical 
 
 * 🌍  I'm based Luanda, Angola
 * ✉️  You can contact me at [gildoperrygp@gmail.com](gildo:gildoperrygp@gmail.com)
-* 🧠  I'm learning Node Js, Php programming languages
+* 🧠  I'm learning Js, Php programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is judo
 
